@@ -1,4 +1,4 @@
-# 🌾 Farm Management Software
+# 🌾 Farmora
 
 🚜 A **Farm Management Software** built using **HTML, CSS, JavaScript, Node.js, Express.js, and Firebase/MySQL** to help farmers manage their farms efficiently. 
 
